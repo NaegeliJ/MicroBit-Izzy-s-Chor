@@ -3,7 +3,7 @@
 Micro:Bit Programm with Assortment of Music and Radio Communication
 
 ## About this Programm
-Programm is writen in [Makecode] (https://makecode.microbit.org/)
+Programm is writen in Microsoft Makecode (https://makecode.microbit.org/)
 
 Currently 3 Songs intergrated:
 * Imperial March
